@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Exercise</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form id="form">
+      <div class="container">
+        <h3 class="heading">Basic attribute for a person</h3>
+        <div class="container_form">
+          <div class="inputs">
+            <label for="fname">First Name:</label>
+            <input type="text" class="fname" name="fname" />
+          </div>
+          <div class="inputs">
+            <label for="lname">Last Name:</label>
+            <input type="text" class="lname" name="lname" />
+          </div>
+          <div class="inputs">
+            <label for="email">Email:</label>
+            <input type="email" class="email" />
+          </div>
+          <div class="inputs">
+            <label for="phone">Phone:</label>
+            <input type="number" />
+          </div>
+        </div>
+        <h3>Favourite Color</h3>
+        <div class="container_colors">
+          <label for="text">Red</label>
+          <input type="checkbox" name="color" id="color" value="Red" checked />
+          <label for="text">Green</label>
+          <input type="checkbox" name="color" id="color" value="Green" />
+          <label for="text">Yellow</label>
+          <input type="checkbox" name="color" id="color" value="Yellow" />
+        </div>
+        <div class="container_select_menus">
+          <h3>Favourite Programming Language</h3>
+          <select name="languages" id="lang">
+            <option value="javascript">JavaScript</option>
+            <option value="php">PHP</option>
+            <option value="java">Java</option>
+            <option value="golang">Golang</option>
+          </select>
+        </div>
+        <div class="container_radio_btn">
+          <h3>Select your Year</h3>
+          <input type="radio" id="year1" name="year" value="58" />
+          <label for="year1">1965 - 2023</label><br />
+          <input type="radio" id="year2" name="year" value="38" />
+          <label for="year2">1985 - 2023</label><br />
+          <input type="radio" id="year3" name="year" value="28" />
+          <label for="year3">1995 - 2023</label><br /><br />
+        </div>
+        <button type="submit" class="btn">Submit</button>
+      </div>
+    </form>
+  </body>
+</html>
