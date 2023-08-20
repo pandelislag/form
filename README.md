@@ -34,11 +34,11 @@ This is my first try to create a contact form with HTML, CSS. I try to make the 
 - Media Queries
 ### What I learned
 
-This project helpS me improve my coding skills. I learn how to search some basic information about html, css and media queries. I also tried to practise the technology of flexbox and see how useful this tool is.
+This project helps me improve my coding skills. I learn how to search some basic information about html, css and media queries. I also tried to practise the technology of flexbox and see how useful this tool is.
 
 ### Continued development
 
-In future projects i would like to learn more consepts about vannilla Js, React and try out new techniques. Also i want to try learn some css libraries. 
+In future projects i would like to learn more consepts such as vannilla Js, React and try out new techniques.
 
 
 ### Useful resources
