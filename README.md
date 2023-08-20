@@ -34,7 +34,7 @@ This is my first try to create a contact form with HTML, CSS. I try to make the 
 - Media Queries
 ### What I learned
 
-This project help me improve my coding skills by building this project. I learn how to search some basic information about html and css and media queries. I also tried to practise the technology of flexbox and how useful this tool is to create a contact form.
+This project helpS me improve my coding skills. I learn how to search some basic information about html, css and media queries. I also tried to practise the technology of flexbox and see how useful this tool is.
 
 ### Continued development
 
